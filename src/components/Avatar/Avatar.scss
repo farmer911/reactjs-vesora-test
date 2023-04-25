@@ -1,0 +1,16 @@
+.avatar {
+    gap: 12px;
+    align-items: center;
+    &__container {
+        padding: 21px 17px 9px 17px;
+        background: #EDF5FF;
+        
+        
+    }
+
+    &__info {
+        color: #333333;
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+}
